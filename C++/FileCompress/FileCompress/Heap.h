@@ -1,8 +1,18 @@
 #pragma once
+<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 #include <vector>
 
+=======
+#include <iostream>
+using namespace std;
+
+#include <vector>
+
+#include <assert.h>
+
+>>>>>>> 9ed2c27b35d6c2e1b5a897a982181f2fe1e3e035
 template <class T>
 struct Greater
 {

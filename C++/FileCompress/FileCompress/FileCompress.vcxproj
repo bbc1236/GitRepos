@@ -12,12 +12,17 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FileCompress.h" />
+<<<<<<< HEAD
     <ClInclude Include="HaffmanTree.h" />
     <ClInclude Include="Heap.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp" />
   </ItemGroup>
+=======
+    <ClInclude Include="Heap.h" />
+  </ItemGroup>
+>>>>>>> 9ed2c27b35d6c2e1b5a897a982181f2fe1e3e035
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CE4B1B83-7867-4571-992A-958A0919F418}</ProjectGuid>
     <RootNamespace>FileCompress</RootNamespace>

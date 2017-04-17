@@ -1,4 +1,5 @@
 #pragma once
+<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 
@@ -271,3 +272,9 @@ void testCompressFile()
 	fc.Compress("À¶.zpl");
 	fc.UnCompress("À¶.zpl.compress");
 }
+=======
+
+#include "Heap.h"
+
+template<class >
+>>>>>>> 9ed2c27b35d6c2e1b5a897a982181f2fe1e3e035
